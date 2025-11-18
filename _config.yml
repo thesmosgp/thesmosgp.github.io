@@ -4,5 +4,11 @@ theme: "just-the-docs"
 url: "https://lukasraven.github.io"
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
+color_scheme: light
+nav_enabled: true
+heading_anchors: true
+mermaid:
+  version: "11.12.1"
+  
 aux_links:
   Template Repository: "https://github.com/lukasraven/lukasreven.github.io"
